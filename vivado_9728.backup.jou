@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Nov 21 19:29:24 2022
+# Process ID: 9728
+# Current directory: C:/Users/91938/Desktop/verilog_files/gcd
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12844 C:\Users\91938\Desktop\verilog_files\gcd\gcd.xpr
+# Log file: C:/Users/91938/Desktop/verilog_files/gcd/vivado.log
+# Journal file: C:/Users/91938/Desktop/verilog_files/gcd\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/91938/Desktop/verilog_files/gcd/gcd.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/91938/Desktop/verilog_files/gcd/testbench_behav.wcfg
+source testbench.tcl
+synth_design -rtl -name rtl_1
+close_sim

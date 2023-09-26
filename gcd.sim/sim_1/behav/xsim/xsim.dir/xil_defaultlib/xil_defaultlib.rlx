@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/91938/Desktop/verilog_files/gcd/gcd.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/91938/Desktop/verilog_files/gcd/gcd.srcs/sim_1/new/testbench.v,1667843180,verilog,,,,testbench,,,,,,,,
+C:/Users/91938/Desktop/verilog_files/gcd/gcd.srcs/sources_1/new/controller.v,1667842828,verilog,,C:/Users/91938/Desktop/verilog_files/gcd/gcd.srcs/sources_1/new/datapath.v,,controller,,,,,,,,
+C:/Users/91938/Desktop/verilog_files/gcd/gcd.srcs/sources_1/new/datapath.v,1667843065,verilog,,C:/Users/91938/Desktop/verilog_files/gcd/gcd.srcs/sources_1/new/gcd.v,,comparator;datapath;mux;register;subtractor,,,,,,,,
+C:/Users/91938/Desktop/verilog_files/gcd/gcd.srcs/sources_1/new/gcd.v,1680949103,verilog,,C:/Users/91938/Desktop/verilog_files/gcd/gcd.srcs/sim_1/new/testbench.v,,gcd,,,,,,,,

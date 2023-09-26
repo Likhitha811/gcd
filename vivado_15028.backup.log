@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Dec 22 22:44:21 2022
+# Process ID: 15028
+# Current directory: C:/Users/91938/Desktop/verilog_files/gcd
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13348 C:\Users\91938\Desktop\verilog_files\gcd\gcd.xpr
+# Log file: C:/Users/91938/Desktop/verilog_files/gcd/vivado.log
+# Journal file: C:/Users/91938/Desktop/verilog_files/gcd\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/91938/Desktop/verilog_files/gcd/gcd.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:08 ; elapsed = 00:00:07 . Memory (MB): peak = 838.004 ; gain = 107.473
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Dec 22 23:25:57 2022...

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Nov  7 23:05:02 2022
+# Process ID: 10320
+# Current directory: C:/Users/91938/Desktop/verilog_files/gcd/gcd.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/91938/Desktop/verilog_files/gcd/gcd.sim/sim_1/behav/xsim/xsim.dir/testbench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/91938/Desktop/verilog_files/gcd/gcd.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/91938/Desktop/verilog_files/gcd/gcd.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/91938/Desktop/verilog_files/gcd/gcd.sim/sim_1/behav/xsim/xsim.dir/testbench_behav/webtalk/xsim_webtalk.tcl -notrace

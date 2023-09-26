@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sat Apr  8 15:46:54 2023
+# Process ID: 16304
+# Current directory: C:/Users/91938/Desktop/verilog_files/gcd
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14052 C:\Users\91938\Desktop\verilog_files\gcd\gcd.xpr
+# Log file: C:/Users/91938/Desktop/verilog_files/gcd/vivado.log
+# Journal file: C:/Users/91938/Desktop/verilog_files/gcd\vivado.jou
+# Running On: LAPTOP-2T8P887U, OS: Windows, CPU Frequency: 3110 MHz, CPU Physical cores: 4, Host memory: 8362 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/91938/Desktop/verilog_files/gcd/gcd.xpr
+upgrade_project -migrate_output_products
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/91938/Desktop/verilog_files/gcd/testbench_behav.wcfg
+source testbench.tcl
+close_sim
